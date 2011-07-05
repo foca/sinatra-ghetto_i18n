@@ -1,0 +1,17 @@
+= Ghetto I18N
+
+This is the simplest, hackiest way to add translations to your Sinatra
+application.
+
+== How do I use it?
+
+The code is (or should be) fairly well documented. Read it :)
+
+If you want a live demo, we use it at http://rubyconfuruguay.org
+
+And that's open source, so you can see its code[http://github.com/foca/rubyconfuruguay-website].
+
+== Credits
+
+Author::  Nicolas Sanguinetti (foca[http://github.com/foca])
+License:: MIT (Check LICENSE for details)
