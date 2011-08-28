@@ -49,7 +49,7 @@ module Sinatra
   # == +:default_language+ ==
   #
   # A string with the 2-letter language code of the default language for your
-  # application. Defaults to English.
+  # application. Defaults to +en+ (English.)
   #
   # == +:i18n_view_format: ==
   #
